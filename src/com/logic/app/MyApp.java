@@ -14,7 +14,7 @@ public class MyApp {
 	public static void main(String[] args) {
 		System.out.println(TwitterSource.booleanFromString());
 		System.out.println(From_STRAVISO.bitwiseOperation());
-		System.out.println(From_STRAVISO.noOfWords.apply("My name is Suraj Mahli, Your name is Sainee Kumari"));
+		System.out.println(From_STRAVISO.noOfWords.apply("My name is Suraj Mahli, Your name is Sainee Kumari Ji"));
 		System.out.println(From_STRAVISO.bitWiseOperaion.get());
 		
 		int[] arr =  {4,5,6,7,8,9,01};
