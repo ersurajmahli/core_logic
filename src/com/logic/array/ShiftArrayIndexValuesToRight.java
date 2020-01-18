@@ -18,7 +18,7 @@ public class ShiftArrayIndexValuesToRight {
 		
 		System.out.println();
 		System.out.println("------------------------------------");
-		System.out.println("Inter number of place to shift");
+		System.out.println("Enter number of place to shift");
 		
 		sc = new Scanner(System.in);
 		int t = sc.nextInt();
