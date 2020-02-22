@@ -1,5 +1,11 @@
 package com.logic.ds.linkedlist;
-
+/*
+ * 
+ * Author : Suraj Mahli
+ * Moto : LinkedListImplementation class, add and show operation
+ * Date : 22-02-2020
+ * 
+*/
 public class LinkedListImplementation {
 
 	public static void main(String[] args) {

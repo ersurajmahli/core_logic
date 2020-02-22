@@ -1,5 +1,13 @@
 package com.logic.ds.linkedlist;
 
+/*
+ * 
+ * Author : Suraj Mahli
+ * Moto : LinkedList class, logics for add and show
+ * Date : 22-02-2020
+ * 
+*/
+
 public class LinkedList {
 
 	Node head;
