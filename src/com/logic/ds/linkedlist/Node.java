@@ -1,0 +1,6 @@
+package com.logic.ds.linkedlist;
+
+public class Node {
+	int data;
+	Node next;
+}
