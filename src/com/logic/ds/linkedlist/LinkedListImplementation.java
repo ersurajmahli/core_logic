@@ -14,6 +14,9 @@ public class LinkedListImplementation {
 		list.insert(18);
 		list.insert(45);
 		list.insert(78);
+		list.insertAtStart(22);
+		
+		list.insertAt(2, 55);
 		
 		list.show();
 	}
