@@ -9,9 +9,12 @@ public class Painting {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Command");
 		String command = sc.nextLine();
-		
+		Draw draw = null;
 		if(command.toUpperCase().startsWith("C")) {
-			Draw draw = new DrawCanvas();
+			draw = new DrawCanvas();
+			draw.draw(command);
+		}else if(command.toUpperCase().startsWith("L")) {
+			draw = new DrawLine();
 			draw.draw(command);
 		}
 	}
